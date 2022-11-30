@@ -5,13 +5,6 @@
 
 <br>
 
-
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=AmirRezaEskandarani&style=flat-square&color=blue" alt=""/>
-
-<div>
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -37,9 +30,6 @@
 
 <br />
 
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 ###  
 
@@ -136,6 +126,13 @@
 
 
 </div>
+
+<div>
+
+<img src="https://komarev.com/ghpvc/?username=AmirRezaEskandarani&style=flat-square&color=blue" alt=""/>
+
+</div>
+	
 <br>
 <br>
 <br>
