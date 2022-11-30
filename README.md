@@ -129,7 +129,7 @@
 
 <div>
 
-<img src="https://komarev.com/ghpvc/?username=AmirRezaEskandarani&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=AmirRezaEskandarani&style=flat-square&color=white" alt=""/>
 
 </div>
 	
