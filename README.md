@@ -102,8 +102,8 @@
 </li>
 
 <li>
-<a href="https://www.kaggle.com/aastha124" target="_blank">
-<img alt="Kaggle" src="https://www.kaggle.com/amirrezaeskandarani">
+<a href="https://www.kaggle.com/amirrezaeskandarani" target="_blank">
+<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 </a>  
 </li>
 	
