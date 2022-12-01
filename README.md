@@ -33,7 +33,6 @@
 ###  
 <div align="center">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Vscode](https://img.shields.io/badge/Vscode-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> 
