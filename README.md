@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Debian-%23880808.svg?&style=for-the-badge&logo=Debian&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-%23FF5733.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-%23FFEA00.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-%23FF5733.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
 
 </div>														     
