@@ -104,28 +104,6 @@
 <div align='left'>
 
 <ul>
-
-<li>
-<a href="https://www.linkedin.com/in/amirreza-eskandarani/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<li>
-<a href="https://www.kaggle.com/amirrezaeskandarani" target="_blank">
-<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-</a>  
-</li>
-	
-<li>
-<a href="mailto:amirreza.eskandarani@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-<a href="https://www.linkedin.com/in/amirrezaeskandarani">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 	
 <a href="https://www.kaggle.com/amirrezaeskandarani" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -134,11 +112,7 @@
 <img src=https://img.shields.io/badge/kaggle-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:amirreza.eskandarani@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail:amirreza.eskandarani@gmail.com-%ff5851db.svg?color=C13584&style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
-</a>
-<a href="https://achhoubiplus.hashnode.dev" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
-</a>
+<img src=https://img.shields.io/badge/gmail-%ff5851db.svg?color=C13584&style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 	
 	
 </ul>
