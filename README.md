@@ -22,7 +22,7 @@
 <br>
 
 
-<p align="center">
+<p align="left">
 
 <br />
 
