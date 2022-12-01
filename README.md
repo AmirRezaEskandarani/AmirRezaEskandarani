@@ -7,9 +7,6 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirRezaEskandarani&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-</picture>
 
 <br>
 
@@ -31,7 +28,7 @@
 
 
 ###  
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Windows-%230096FF.svg?&style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> 
@@ -48,6 +45,9 @@
 
 </div>														     
 														     
+<picture>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirRezaEskandarani&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+</picture>
 
 
 <br/>
