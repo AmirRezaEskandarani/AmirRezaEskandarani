@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Windows-%23ED8B00.svg?&style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-%23ED8B00.svg?&style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-%23ED8B00.svg?&style=for-the-badge&logo=VS%20Code&logoColor=white" /> 
+<img src="https://img.shields.io/badge/VS%20Code-%23ED8B00.svg?&style=for-the-badge&logo=VSCode&logoColor=white" /> 
 
 </div>														     
 														     
