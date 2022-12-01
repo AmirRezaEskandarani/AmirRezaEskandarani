@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/VS%20Code-%23ED8B00.svg?&style=for-the-badge&logo=VS-Code&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Debian-%23880808.svg?&style=for-the-badge&logo=Debian&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-%23880808.svg?&style=for-the-badge&logo=C++&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-%23#FF5733.svg?&style=for-the-badge&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-%23FF5733.svg?&style=for-the-badge&logo=git&logoColor=white" />
 
 </div>														     
 														     
