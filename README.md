@@ -83,53 +83,5 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
 
-<ul>
-	
-<a href="https://www.kaggle.com/amirrezaeskandarani" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/amirrezaeskandarani" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:amirreza.eskandarani@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%ff5851db.svg?color=C13584&style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
-	
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-
-</div>
-
-<div>
-
-<img src="https://komarev.com/ghpvc/?username=AmirRezaEskandarani&style=flat-square&color=blue" alt=""/>
-
-</div>
-
-<div>
-<img src="https://img.shields.io/github/followers/AmirRezaEskandarani?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/>
-</div>
-
-
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
 
