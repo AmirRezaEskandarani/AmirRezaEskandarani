@@ -33,15 +33,13 @@
 ###  
 <div align="center">
 <img src="https://img.shields.io/badge/Windows-%230096FF.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Windows-%23ED8B00.svg?&style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-%23FFEA00.svg?&style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS%20Code-%23ED8B00.svg?&style=for-the-badge&logo=VSCode&logoColor=white" /> 
+<img src="https://img.shields.io/badge/VS%20Code-%23ED8B00.svg?&style=for-the-badge&logo=VS-Code&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Debian-%23880808.svg?&style=for-the-badge&logo=Debian&logoColor=white" />
-	
+<img src="https://img.shields.io/badge/C++-%23880808.svg?&style=for-the-badge&logo=C++&logoColor=white" />
 </div>														     
 														     
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
