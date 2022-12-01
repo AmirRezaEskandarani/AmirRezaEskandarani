@@ -12,10 +12,8 @@
 <br>
 
 - A passionate Data Scientist
-- Intrested in predicting before something happen
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Love to code with Python and solve problems
+
 
 <br><br>
 
