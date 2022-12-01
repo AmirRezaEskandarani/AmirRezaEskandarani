@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/C++-%23880808.svg?&style=for-the-badge&logo=C++&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-%23FF5733.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/C++%20-%23D3D3D3.svg?&style=for-the-badge&logo=c++&logoColor=white" /> 
+<img src="https://img.shields.io/badge/C++%20-%23D3D3D3.svg?&style=for-the-badge&logo=c&logoColor=white" /> 
 
 
 </div>														     
