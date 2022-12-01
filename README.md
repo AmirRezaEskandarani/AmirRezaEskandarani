@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/Git-%23FF5733.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-%23FF5733.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/google-colab-%23FF5733.svg?&style=for-the-badge&logo=google-colab&logoColor=white" />
+<img src="https://img.shields.io/badge/google-colab-%23FFA500.svg?&style=for-the-badge&logo=google-colab&logoColor=white" />
 
 
 
