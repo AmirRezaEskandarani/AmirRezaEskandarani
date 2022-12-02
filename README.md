@@ -12,7 +12,7 @@
 
 - A passionate Data Scientist
 - Love to code with Python and solve problems
-- check my This is the *[LinkedIn](https://www.linkedin.com/in/amirreza-eskandarani/)*.
+- Check my *[LinkedIn](https://www.linkedin.com/in/amirreza-eskandarani/)* for more details
 
 
 <br><br>
