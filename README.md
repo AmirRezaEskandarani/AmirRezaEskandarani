@@ -12,7 +12,8 @@
 
 - A passionate Data Scientist
 - Love to code with Python and solve problems
-- check my LinkedIn 
+- check my This is the *[LinkedIn](https://www.linkedin.com/in/amirreza-eskandarani/)*.
+
 
 <br><br>
 
