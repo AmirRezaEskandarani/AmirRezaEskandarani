@@ -5,16 +5,14 @@
 <br>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
+## <img src="/about_me.gif" alt="MarineGEO circle logo" style="height: 50px; width:50px;"/>
 
 <br>
+
 
 - A passionate Data Scientist
 - Love to code and solve problems
 - Check my *[LinkedIn](https://www.linkedin.com/in/amirreza-eskandarani/)* for more details
-
-![hi](/about_me.gif "Text to show on mouseover").
 
 
 <br><br>
