@@ -41,17 +41,8 @@
 <img src="https://img.shields.io/badge/Jupyter-%23FF5733.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/google-colab-%23FFA500.svg?&style=for-the-badge&logo=google-colab&logoColor=white" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirRezaEskandarani&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-</div>														     
-
-<div align="right">
-
-
-
 
 </div>														     
-
-													     
 
 
 <br/>
