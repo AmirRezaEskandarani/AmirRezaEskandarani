@@ -5,7 +5,7 @@
 <br>
 
 	
-## <img src="/about_me.gif" alt="MarineGEO circle logo" style="height: 80px; width:80px;"/>
+## <img src="/about_me.gif" alt="MarineGEO circle logo" style="height: 85px; width:85px;"/>
 
 <br>
 
