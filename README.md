@@ -8,9 +8,11 @@
 ## <img src="/about_me.gif" alt="MarineGEO circle logo" style="height: 85px; width:85px;"/>
 
 <br>
+
 - A passionate Data Scientist
 - Love to code and solve problems
 - Check my *[LinkedIn](https://www.linkedin.com/in/amirreza-eskandarani/)* for more details
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
