@@ -8,13 +8,11 @@
 ## <img src="/about_me.gif" alt="MarineGEO circle logo" style="height: 85px; width:85px;"/>
 
 <br>
-
 - A passionate Data Scientist
 - Love to code and solve problems
 - Check my *[LinkedIn](https://www.linkedin.com/in/amirreza-eskandarani/)* for more details
-
-</br><br>
-
+</br>
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></br>
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Languages & Tools </b>
