@@ -1,9 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Amirreza Eskandarani </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
 <br>
-
 	
 ## <img src="/about_me.gif" alt="MarineGEO circle logo" style="height: 85px; width:85px;"/>
 
@@ -20,11 +18,9 @@
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Languages & Tools </b>
 <br>
 
-
 <p align="left">
 
 <br />
-
 
 ###  
 <div align="left" margin=200px>
@@ -38,7 +34,6 @@
 <img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-%23FF5733.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/google-colab-%23FFA500.svg?&style=for-the-badge&logo=google-colab&logoColor=white" />
-
 
 </div>														     
 <br/>
